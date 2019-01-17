@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Elementor Bedev Extension
  * Description: My first Elementors plugin for studiing purpose.
- * Plugin URI:  https://github.com/sxidsvit/
+ * Plugin URI:  https://github.com/sxidsvit/bedev/
  * Version:     1.0.0
  * Author:      Sxidsvit
  * Author URI:  https://t.me/sxidsvit
